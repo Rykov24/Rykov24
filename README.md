@@ -1,7 +1,7 @@
 ## 👋 Hey there! I'm Rykov
-I'm a hardware designer at Savoy, focusing on developing next-gen drones 🚁. I design the physical components, sensors, and power systems, making sure they integrate seamlessly with the software.
+I'm a hardware designer, currently focusing on developing next-gen drones 🚁. I design the physical components, sensors, and power systems, making sure they integrate seamlessly with the software.
 
-- 🔧 Working on: [Savoy's Drone Project](https://github.com/Savoy-Research-Institute/Ursa-Minor)
+- 🔧 I've been working on a calculator app, written in as low-level as I can
 - ⚡ Fun fact: I'm obsessed with optimizing designs. sufficiently developed technology is indistinguishable from magic
 - 🌱 Currently exploring: advanced aerodynamics and sustainable control logic.
 - 👀 I'm interested in humanoid robotics/intelligence. I think human beings are cool in how they build things
